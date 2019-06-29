@@ -1,2 +1,2 @@
 # ContactManager
-Táto aplikácia slúži ako záverečná práca druhého trimestra programu ŠTC
+Táto aplikácia slúži ako záverečná práca druhého trimestra programu Microsoft ŠTC
